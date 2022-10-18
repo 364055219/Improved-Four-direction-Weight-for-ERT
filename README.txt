@@ -9,17 +9,19 @@ Here are step-by-step instructions for running this program locally on your mach
 
 1. Install Matlab R2019 or above.
 
-2. Input the guide image (Note that it is a grayscale image) and its structural tensor field and semblance field. The above data is obtained by referring to Hale (2009) and Zhou et al. (2014). Note that  put the above files in a folder with the code. (Reference: Hale, D., 2009. Structure-oriented smoothing and semblance. CWP Report 635; Zhou, J., Revil, A., Karaoulis, M., Hale, D., Doetsch, J., Cuttler, S., 2014. Image-guided inversion of electrical resistivity data. Geophysical Journal International 197, 292-309)
+2. 
 
-3. Define the inversion mesh parameters.
+3. Input the guide image (Note that it is a grayscale image) and its structural tensor field and semblance field. The above data is obtained by referring to Hale (2009) and Zhou et al. (2014). Note that  put the above files in a folder with the code. (Reference: Hale, D., 2009. Structure-oriented smoothing and semblance. CWP Report 635; Zhou, J., Revil, A., Karaoulis, M., Hale, D., Doetsch, J., Cuttler, S., 2014. Image-guided inversion of electrical resistivity data. Geophysical Journal International 197, 292-309)
 
-4. Set the calculation parameters.
+4. Define the inversion mesh parameters.
 
-5. Set drawing parameters.
+5. Set the calculation parameters.
 
-6. Run the program in the MATLAB editor
+6. Set drawing parameters.
 
-7. Export four-direction smoothing matrix
+7. Run the program in the MATLAB editor
+
+8. Export four-direction smoothing matrix
 
 ### Example Demonstration
 
